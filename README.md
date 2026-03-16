@@ -1,4 +1,4 @@
-# Deep Learning Assignment: Feedforward Neural Network with Backpropagation
+# Deep Learning Project: Feedforward Neural Network with Backpropagation
 
 Implementation of a feedforward neural network from scratch for Fashion-MNIST classification, demonstrating backpropagation algorithm and comprehensive hyperparameter tuning using Weights & Biases.
 
