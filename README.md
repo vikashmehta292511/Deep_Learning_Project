@@ -121,7 +121,7 @@ python -c "import tensorflow as tf; from src.model import NeuralNetwork; print('
 ## Project Structure
 
 ```
-dl_assignment/
+Deep_Learning_Project/
 ├── src/
 │   ├── __init__.py              # Package initializer
 │   ├── model.py                 # Neural network and optimizer implementations
