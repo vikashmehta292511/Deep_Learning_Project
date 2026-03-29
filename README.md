@@ -76,8 +76,8 @@ The training process computes gradients using automatic differentiation (TensorF
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dl_assignment.git
-cd dl_assignment
+git clone https://github.com/vikashmehta292511/Deep_Learning_Project.git
+cd Deep_Learning_Project
 ```
 
 ### Step 2: Create Virtual Environment
@@ -287,7 +287,7 @@ python run_sweep.py --count 20
 python run_sweep.py --create_only
 
 # Run agents (can run multiple in parallel)
-wandb agent YOUR_USERNAME/dl_assignment/SWEEP_ID
+wandb agent vikashmehta292511/Deep_Learning_Project/"your own SWEEP_ID"
 ```
 ---
 
