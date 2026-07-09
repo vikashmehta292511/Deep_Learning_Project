@@ -10,7 +10,6 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-import wandb
 
 
 def load_fashion_mnist(validation_split=0.1):
