@@ -1,1 +1,16 @@
-C:/Users/DELL/AppData/Local/wandb/logs/core-debug-20251102_170914.log
+{"time":"2025-11-02T17:09:14.3911856+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\DELL\\AppData\\Local\\Temp\\tmpbx27ynp_\\port-16180.txt","pid":16180,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-02T17:09:14.3956111+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":16180}
+{"time":"2025-11-02T17:09:14.3967974+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\DELL\\AppData\\Local\\Temp\\wandb-16180-16292-4167370798\\socket","Net":"unix"}}
+{"time":"2025-11-02T17:09:14.3967974+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":55644,"Zone":""}}
+{"time":"2025-11-02T17:09:16.5119976+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:17.0419618+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"8zxqz6kg","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.0533683+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"8zxqz6kg","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4069882+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4074929+05:30","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4074929+05:30","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4074929+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-11-02T17:09:18.4086332+05:30","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\DELL\\AppData\\Local\\Temp\\wandb-16180-16292-4167370798\\socket","Net":"unix"}}
+{"time":"2025-11-02T17:09:18.4086332+05:30","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":55644,"Zone":""}}
+{"time":"2025-11-02T17:09:18.4712994+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4712994+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:55647)"}
+{"time":"2025-11-02T17:09:18.4712994+05:30","level":"INFO","msg":"server is closed"}

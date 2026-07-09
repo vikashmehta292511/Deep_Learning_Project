@@ -1,1 +1,18 @@
-C:/Users/DELL/AppData/Local/wandb/logs/core-debug-20251103_021809.log
+{"time":"2025-11-03T02:18:09.3601317+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\DELL\\AppData\\Local\\Temp\\tmpqvqgy_j6\\port-16860.txt","pid":16860,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-11-03T02:18:09.3635952+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":16860}
+{"time":"2025-11-03T02:18:09.3635952+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":53393,"Zone":""}}
+{"time":"2025-11-03T02:18:09.3641519+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\DELL\\AppData\\Local\\Temp\\wandb-16860-19112-2163544072\\socket","Net":"unix"}}
+{"time":"2025-11-03T02:18:11.5856131+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:18:11.5944311+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"qx1evse6","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:18:12.2182836+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"qx1evse6","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:03.935365+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"qx1evse6","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:03.9399137+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"qx1evse6","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0660427+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0660427+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0660427+05:30","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0668544+05:30","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0668544+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:53395)"}
+{"time":"2025-11-03T02:19:07.0668544+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-11-03T02:19:07.0674022+05:30","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\DELL\\AppData\\Local\\Temp\\wandb-16860-19112-2163544072\\socket","Net":"unix"}}
+{"time":"2025-11-03T02:19:07.0674022+05:30","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":53393,"Zone":""}}
+{"time":"2025-11-03T02:19:07.0674022+05:30","level":"INFO","msg":"server is closed"}
